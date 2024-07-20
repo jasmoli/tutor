@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Outbound
 
 **These three outbound names can be changed, but cannot be deleted! ! ! **

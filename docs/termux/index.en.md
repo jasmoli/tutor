@@ -1,3 +1,6 @@
+---
+comments: true
+---
 ## Installing the [Termux](https://github.com/termux/termux-app/releases) Application
 Termux has two release channels, [Github](https://github.com/termux/termux-app/releases) and [F-Droid](https://f-droid.org/packages/com.termux/ ), novices are advised to download the version of [F-Droid](https://f-droid.org/packages/com.termux/) (click on the text to go to the corresponding download channel)
 

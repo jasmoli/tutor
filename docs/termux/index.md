@@ -1,3 +1,6 @@
+---
+comments: true
+---
 ## 安装 [Termux](https://github.com/termux/termux-app/releases) 应用
 Termux 有两个发布渠道，[Github](https://github.com/termux/termux-app/releases) 和 [F-Droid](https://f-droid.org/packages/com.termux/)，小白建议下载 [F-Droid](https://f-droid.org/packages/com.termux/) 的版本（点击文字前往对应下载渠道）
 

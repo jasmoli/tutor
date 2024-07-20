@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # common problem
 ## This machine has internet, but the hotspot doesn’t?
 

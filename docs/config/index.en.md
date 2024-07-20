@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Modify configuration file
 The configuration file is in the **/data/adb/sfm/src/** (Android) or the **src** folder of the directory where the module is placed on your computer.
 

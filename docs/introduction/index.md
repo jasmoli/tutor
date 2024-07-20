@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # 介绍
 
 ## sing-box 介绍

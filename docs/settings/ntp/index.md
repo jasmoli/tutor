@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # NTP 时间服务器
 
 选项解释:

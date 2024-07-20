@@ -1,3 +1,6 @@
+---
+comments: true
+---
 ## 神秘 panel homepage
 ![](../assets/20231007232729208.jpg)
 

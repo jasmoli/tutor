@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Settings
 ![](../assets/20231007232747398.jpg)
 

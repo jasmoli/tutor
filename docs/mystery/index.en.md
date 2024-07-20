@@ -1,3 +1,6 @@
+---
+comments: true
+---
 ## Install the 神秘 module (Android)
 Go to [原始人，起洞！](https://t.me/+1-1lPvQxklVlZjA1)'s "啊?" topic to download the latest version of the module (**pay attention to the group file**). The Android version file name contains `android`, choose to save to download
 

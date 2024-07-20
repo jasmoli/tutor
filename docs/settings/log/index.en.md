@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Log Setting
 
 Option explanation:

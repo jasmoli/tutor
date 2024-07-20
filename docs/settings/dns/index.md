@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # DNS
 ![DNS](../../assets/20231007232941235.jpg)
 

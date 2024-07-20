@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # NTP time server
 
 Option explanation:

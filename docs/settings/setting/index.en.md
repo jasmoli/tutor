@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Module settings
 ![](../../assets/20231007232932387.jpg)
 

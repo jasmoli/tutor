@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Configuration example for newbies
 
 ## Step 1, open the control panel

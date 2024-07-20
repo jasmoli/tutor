@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Introduction
 
 ## sing-box introduction

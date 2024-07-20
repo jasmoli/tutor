@@ -16,6 +16,7 @@ extra:
       link: https://xireiki.com
 theme:
   name: material
+  custom_dir: overrides
   logo: assets/icon.gif
   favicon: assets/icon.gif
   features:

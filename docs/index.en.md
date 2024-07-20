@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Home
 
 ## Instructions for reading
