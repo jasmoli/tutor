@@ -122,7 +122,7 @@ Download [MacroDroid](https://t.me/xireikisub/66) and [MacroDroid Backup](https:
 
 After installing [MacroDroid](https://t.me/xireikisub/66), import [backup file](https://t.me/xireikisub/68) to [MacroDroid](https://t.me/ xireikisub/66)
 
-## 怎么放行应用？
+## How to release the application?
 Modify black or white in **packages_list**, which are respectively the blacklist (applications in the release list) and the whitelist (only applications in the proxy list). The default is **blacklist**.
 
 If you have time and trouble, you can use my [TPanel](https://tpanel.xireiki.com), click on the animation to enter the settings-list and enable the corresponding application.
@@ -174,43 +174,7 @@ Add the package names in white, one per line, as shown below.
 ```
 
 ## How to enable/disable fakeip?
-### closure
-Step 1: Open the **/data/adb/sfm/src/baseConfig.yaml** configuration file and change `enabled` in the following rules from `true` to `false`. In theory, other steps are not required. implement. The execution just shuts down more completely.
-```yaml
-    - enabled: true
-      query_type:
-        - A
-        - AAAA
-      server: fakedns
-      rewrite_ttl: 1
-      disable_cache: true
-      notice: 对 A 和 AAAA 类型的 DNS 请求返回 fake-ip 以尽量减少本地 dns 解析并尽可能的将域名送向远端。
-```
-
-After the modification, it looks like this:
-```yaml
-    - enabled: false
-      query_type:
-        - A
-        - AAAA
-      server: fakedns
-      rewrite_ttl: 1
-      disable_cache: true
-      notice: 对 A 和 AAAA 类型的 DNS 请求返回 fake-ip 以尽量减少本地 dns 解析并尽可能的将域名送向远端。
-```
-
-After making the changes, go to the panel => **Settings** => **Module Settings** and click **Reload Core Configuration**.
-
-The following steps are supplementary and not necessary.
-
-Step 2: Open the Mystery Panel (or Mystery Shell app), enter **Settings** => **DMS Settings** => **Modify FakeIP Settings**, and uncheck **Start FakeIP Support**
-
-Step 2: Enter the panel => **Settings** => **DMS Settings** => **Modify DNS Server** => **fakedns**, uncheck **Enable DNS Server**
-
-### turn on
-As opposed to turning off, change `false` to `true` and reload the core configuration.
-
-If it is unchecked (perform steps 2 and 3), please check it back.
+Open the mysterious panel, enter **操控核心** -> **Lower Left Corner Gear** at startup, and modify the mode at **切换路由模式**.
 
 ## Geo database error?
 If you report an error after **starting**/**restarting the core** and there is the word **geo** in the error, it is most likely a geo database download error. Please try to update the geo database. Specific solution: Settings - Module Configuration - Automatically update Geo database, just turn it off and on again
