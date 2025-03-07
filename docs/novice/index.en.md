@@ -24,7 +24,7 @@ tip: When updating the 神秘 module, the "神秘" data will be automatically cl
 4. Enter the information and click **提交** (at the bottom of the page)
 ![图片步骤](../assets/novice/20240720030137.jpg)
 
-## Step 4, add outbound
+## Step 3, add outbound
 1. Click **返回** to return to the settings page
 2. Click **出站** to enter the **Outbound** settings page
 3. Click the Add button to add outbound
@@ -33,14 +33,14 @@ tip: When updating the 神秘 module, the "神秘" data will be automatically cl
 
 tip: This step can be skipped (not recommended)
 
-## Step 5， configure outbound
+## Step 4， configure outbound
 1. Click **国外出口** to enter the outbound configuration page
-2. If you skipped **Step 4**, select **your** Airport Subscription under **引用出站提供者**
-3. If you did not skip **Step 4**, select **the outbound you created** in **出站嵌套**
+2. If you skipped **Step 3**, select **your** Airport Subscription under **引用出站提供者**
+3. If you did not skip **Step 3**, select **the outbound you created** in **出站嵌套**
 4. Scroll down and click "提交"
 ![图片步骤](../assets/novice/20240720105653.jpg)
 
-## Step 6, start
+## Step 5, start
 1. return to home page
 2. Click **启动核心**
 ![图片步骤](../assets/novice/20240720110348.jpg)
