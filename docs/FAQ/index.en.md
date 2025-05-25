@@ -207,3 +207,8 @@ To download, please go to [My Channel](https://t.me/xiayinlily), updates are not
 
 ## After force restarting the phone, it mysteriously fails to start? Startup failed. Is there Valid JSON keyword in node.log?
 The reason may be that the **appLables.json** file is damaged after a forced restart of the phone. Go to **/data/adb/sfm/src** to delete this file and re-flash the module to solve the problem.
+
+## Regarding "出站提供者信息提交失败，原因是：provider 不合法，原因是：type 不合法"?
+The reason for this problem is that the outbound provider type was updated in one update, but your panel cache was not updated.
+
+The solution is to clear the panel cache, such as clearing the data of the "神秘" application, clearing the cache of the browser, etc.

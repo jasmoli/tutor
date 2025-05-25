@@ -208,3 +208,8 @@ cache_file and related fields in Clash API is deprecated in sing-box 1.8.0, use 
 
 ## 强制重启手机后，神秘无法启动？启动失败 node.log 里有 Valid JSON 关键字?
 原因可能是强制重启手机后导致 **appLables.json** 文件损坏，前往 **/data/adb/sfm/src** 删除这个文件后重新刷模块即可解决。
+
+## 关于“出站提供者信息提交失败，原因是：provider 不合法，原因是：type 不合法”？
+导致该问题的原因是出站提供者类型在某次更新中更新了，单但你的面板缓存未更新。
+
+解决方法是清除面板缓存，如清除“神秘”应用的数据、清除浏览器的缓存等。
